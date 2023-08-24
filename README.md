@@ -19,4 +19,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brady4080&show_icons=true&locale=en&layout=compact" alt="brady4080" /></p>
 
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brady4080&" alt="brady4080" /></p>
+-->
