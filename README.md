@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brady Phillips</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 - 🔭 I’m currently working on [My Portfolio Website](https://github.com/Brady4080/Brady4080.github.io)
 
