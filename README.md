@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brady Phillips</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on [My Portfolio Website](https://github.com/Brady4080/Brady4080.github.io) and [Musono](https://github.com/The-Compiler-Crew/Musono/tree/main))
+- 🔭 I’m currently working on [My Portfolio Website](https://github.com/Brady4080/Brady4080.github.io) and [Musono](https://github.com/The-Compiler-Crew/Musono/tree/main)
 
 - 👨‍💻 All of my projects are available at [https://brady4080.github.io/](https://brady4080.github.io/)
 
