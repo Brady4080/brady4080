@@ -22,7 +22,6 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square#956f2e0)
 ![JS](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=fff&style=flat-square#956f2e0)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat-square#956f2e0)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square#956f2e0)  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square#956f2e0))
 ![Mongo](https://img.shields.io/badge/Mongo-47A248?logo=mongodb&logoColor=fff&style=flat-square#956f2e0)
 ![macOS](https://img.shields.io/badge/macOS-000?logo=apple&logoColor=fff&style=flat-square#956f2e0)
