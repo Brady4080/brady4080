@@ -25,6 +25,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat-square#956f2e0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square#956f2e0)
 ![Mongo](https://img.shields.io/badge/Mongo-47A248?logo=mongodb&logoColor=fff&style=flat-square#956f2e0)
+![Windows](https://img.shields.io/badge/Windows-000?logo=windows&logoColor=fff&style=flat-square)
 ![macOS](https://img.shields.io/badge/macOS-000?logo=apple&logoColor=fff&style=flat-square#956f2e0)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square#956f2e0) 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square#956f2e0)
