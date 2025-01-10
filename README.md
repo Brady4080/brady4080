@@ -15,7 +15,8 @@
 </p>
 
 ### Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square#956f2e0) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square#956f2e0)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=flat-square#956f2e0) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square#956f2e0)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square#956f2e0) 
@@ -30,7 +31,6 @@
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=fff&style=flat-square#956f2e0) 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000?logo=intellijidea&logoColor=fff&style=flat-square#956f2e0)
 ![Office 365](https://img.shields.io/badge/Office%20365-D83B01?logo=microsoftoffice&logoColor=fff&style=flat-square#956f2e0) 
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
 
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brady4080&orgs=aeloria-codex,the-compiler-crew&show_icons=true&locale=en&layout=compact" alt="brady4080" /></p>
